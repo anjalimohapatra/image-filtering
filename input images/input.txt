@@ -1,0 +1,1 @@
+Two types of images are used , cameraman and lena
