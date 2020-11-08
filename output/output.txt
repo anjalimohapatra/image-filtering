@@ -1,0 +1,4 @@
+7x7 and 15x15 averaging filters and (2) 7x7 and 15x15
+Gaussian filters (using the masks provided below).
+For median filtering, an image is corrupted with “salt and pepper” noise (i.e., X% of the pixels values to either black or white; for each image,  X=30
+and X=50)
