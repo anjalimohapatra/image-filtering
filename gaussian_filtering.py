@@ -48,7 +48,7 @@ def gaussian_blur(image, kernel, verbose=False):
 
 
 if __name__ == '__main__':
-    image = cv2.imread("lena.jpg")
+    image = cv2.imread("input images/lena.jpg")
     
     #To apply the 7*7 mask
     gaussian_blur(image, mask7, verbose=True)
